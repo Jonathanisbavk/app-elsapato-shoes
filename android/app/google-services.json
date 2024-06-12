@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "113558392016",
+    "project_id": "app-venta-elsapatao",
+    "storage_bucket": "app-venta-elsapatao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113558392016:android:3a92a14b6ff8f12926e2d5",
+        "android_client_info": {
+          "package_name": "com.mycompany.appventaelsapato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113558392016-1b1142h11ram2vfvsivg1tfh1qdh09b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.appventaelsapato",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "113558392016-qpj599isac7d2sckkngd096k951dc8qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaY4eeXphxf2D_s0NqE1KubZ98IjNaHcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113558392016-qpj599isac7d2sckkngd096k951dc8qh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113558392016-4lcgacval3n8f6p78ls7gsop4ejfncsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.appventaelsapato"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
